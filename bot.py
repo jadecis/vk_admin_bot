@@ -2,10 +2,8 @@ from vkbottle.bot import Bot, Message, run_multibot
 from vkbottle import load_blueprints_from_package
 from vkbottle.api import API
 
-import asyncio
 import logging
 from src import config as cfg
-from src.db import Database
 
 
 

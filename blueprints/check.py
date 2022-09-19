@@ -1,4 +1,3 @@
-from re import I
 from vkbottle.bot import Blueprint, Message, Bot
 from vkbottle import Callback, GroupEventType, GroupTypes
 from src import config as cfg
